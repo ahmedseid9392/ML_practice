@@ -1,0 +1,9 @@
+
+student,study_hours,attendance,exam_score
+Ali,1,60,35
+Sara,2,70,45
+John,3,80,55
+Maya,4,90,70
+Abel,5,95,85
+Hana,3,80,
+Dawit,,75,60
